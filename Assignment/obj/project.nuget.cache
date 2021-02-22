@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKbe50Xb/FoBSZPiBQlaDECp6kj92GBLlXpXsHJedHMIkeBP5lqhzb0L7niTrq7xb/rGKPSqXSSTOuCQjtYchg==",
+  "success": true,
+  "projectFilePath": "D:\\Assignment\\Assignment\\Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alok Parasar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
